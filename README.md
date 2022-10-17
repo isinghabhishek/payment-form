@@ -2,7 +2,7 @@
 
 Collecting payment online is incredibly simple using a Jotform payment form. Whether you're looking to collect customer information, order type and quantity; our forms can be customized to fit your needs. No matter the size or type of business you have.
 
-With a variety of payment form options, including donation forms, order forms or purchase forms. Get started by either selecting a payment form template below or start your own form, then choose which payment gateway you'd like to use such as Square, PayPal, Stripe and Authorize.Net.
+With a variety of payment form options, including donation forms, order forms or purchase forms. Get started by either selecting a payment form template below or start your own form, then choose what ever payment gateway you'd like to use.
 
 ## This is basic payment form made using Html and Css.
 
